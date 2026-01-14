@@ -6,10 +6,7 @@
 <td width="50%" valign="top">
   <h3 align="left"> ❤ About Me </h3>
 
-- 👨‍💻 Full-stack developer
-- 🌱 Keep Learning
-- 📫 Reach me: [GitHub](https://github.com/NaokiHaba)
-- 💬 Ask me about everything
+- 💚 Front-end Developer loving Vue ecosystem
 </td>
 <td width="50%" valign="top">
   <h3 align="left"> :zap: Recent Activity </h3>
