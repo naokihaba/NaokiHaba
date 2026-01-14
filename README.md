@@ -6,7 +6,7 @@
 <td width="50%" valign="top">
   <h3 align="left"> ❤ About Me </h3>
 
-- 💚 Front-end Developer loving Vue ecosystem
+- 💚 Front-end Developer
 - 🌱 Keep Learning
 - 📫 Reach me: [GitHub](https://github.com/NaokiHaba)
 - 💬 Ask me about everything
