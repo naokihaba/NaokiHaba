@@ -7,6 +7,9 @@
   <h3 align="left"> ❤ About Me </h3>
 
 - 💚 Front-end Developer loving Vue ecosystem
+- 🌱 Keep Learning
+- 📫 Reach me: [GitHub](https://github.com/NaokiHaba)
+- 💬 Ask me about everything
 </td>
 <td width="50%" valign="top">
   <h3 align="left"> :zap: Recent Activity </h3>
