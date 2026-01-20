@@ -15,11 +15,11 @@
   <h3 align="left"> :zap: Recent Activity </h3>
 
 <!--START_SECTION:activity-->
-1. ℹ️ Assigned PR [#47](https://github.com/chibivue-land/vueyous/pull/47) in [chibivue-land/vueyous](https://github.com/chibivue-land/vueyous)
-2. 💪 Opened PR [#47](https://github.com/chibivue-land/vueyous/pull/47) in [chibivue-land/vueyous](https://github.com/chibivue-land/vueyous)
-3. 🎉 Merged PR [#46](https://github.com/chibivue-land/vueyous/pull/46) in [chibivue-land/vueyous](https://github.com/chibivue-land/vueyous)
-4. ℹ️ Assigned PR [#46](https://github.com/chibivue-land/vueyous/pull/46) in [chibivue-land/vueyous](https://github.com/chibivue-land/vueyous)
-5. 💪 Opened PR [#46](https://github.com/chibivue-land/vueyous/pull/46) in [chibivue-land/vueyous](https://github.com/chibivue-land/vueyous)
+1. 🗣 Commented on [#6](https://github.com/chibivue-land/vueyous/issues/6#issuecomment-3773177881) in [chibivue-land/vueyous](https://github.com/chibivue-land/vueyous)
+2. 🔓 Reopened issue [#6](https://github.com/chibivue-land/vueyous/issues/6) in [chibivue-land/vueyous](https://github.com/chibivue-land/vueyous)
+3. ℹ️ Assigned PR [#49](https://github.com/chibivue-land/vueyous/pull/49) in [chibivue-land/vueyous](https://github.com/chibivue-land/vueyous)
+4. 🎉 Merged PR [#49](https://github.com/chibivue-land/vueyous/pull/49) in [chibivue-land/vueyous](https://github.com/chibivue-land/vueyous)
+5. 💪 Opened PR [#49](https://github.com/chibivue-land/vueyous/pull/49) in [chibivue-land/vueyous](https://github.com/chibivue-land/vueyous)
 <!--END_SECTION:activity-->
 
 </td>
