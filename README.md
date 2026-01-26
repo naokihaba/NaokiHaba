@@ -15,11 +15,11 @@
   <h3 align="left"> :zap: Recent Activity </h3>
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v2.0.1](https://github.com/naokihaba/naoki-blog/releases/tag/v2.0.1) in [naokihaba/naoki-blog](https://github.com/naokihaba/naoki-blog)
-2. 🚀 Published release [v2.0.0](https://github.com/naokihaba/naoki-blog/releases/tag/v2.0.0) in [naokihaba/naoki-blog](https://github.com/naokihaba/naoki-blog)
-3. 🚀 Published release [v0.0.1](https://github.com/chibivue-land/vueyous/releases/tag/v0.0.1) in [chibivue-land/vueyous](https://github.com/chibivue-land/vueyous)
-4. 🎉 Merged PR [#50](https://github.com/chibivue-land/vueyous/pull/50) in [chibivue-land/vueyous](https://github.com/chibivue-land/vueyous)
-5. 💪 Opened PR [#50](https://github.com/chibivue-land/vueyous/pull/50) in [chibivue-land/vueyous](https://github.com/chibivue-land/vueyous)
+1. ℹ️ Assigned issue [#51](https://github.com/chibivue-land/vueyous/issues/51) in [chibivue-land/vueyous](https://github.com/chibivue-land/vueyous)
+2. ❗ Opened issue [#51](https://github.com/chibivue-land/vueyous/issues/51) in [chibivue-land/vueyous](https://github.com/chibivue-land/vueyous)
+3. 🔒 Closed issue [#18](https://github.com/chibivue-land/vueyous/issues/18) in [chibivue-land/vueyous](https://github.com/chibivue-land/vueyous)
+4. 🔒 Closed issue [#33](https://github.com/chibivue-land/vueyous/issues/33) in [chibivue-land/vueyous](https://github.com/chibivue-land/vueyous)
+5. 🔒 Closed issue [#35](https://github.com/chibivue-land/vueyous/issues/35) in [chibivue-land/vueyous](https://github.com/chibivue-land/vueyous)
 <!--END_SECTION:activity-->
 
 </td>
