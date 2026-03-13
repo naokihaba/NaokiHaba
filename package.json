@@ -1,0 +1,29 @@
+{
+  "name": "naokihaba",
+  "version": "1.0.0",
+  "description": "💚 Front-end Developer loving Vue ecosystem",
+  "keywords": ["card", "cli", "npx", "vue"],
+  "homepage": "https://own.page/naokihaba",
+  "license": "MIT",
+  "author": "NaokiHaba",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/naokihaba/NaokiHaba.git"
+  },
+  "bin": {
+    "naokihaba": "dist/cli.mjs"
+  },
+  "files": ["dist"],
+  "type": "module",
+  "scripts": {
+    "build": "tsdown bin/cli.ts --outDir dist --platform node",
+    "dev": "bun run bin/cli.ts"
+  },
+  "devDependencies": {
+    "tsdown": "^0.20.1",
+    "typescript": "^5.0.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
