@@ -71,7 +71,7 @@ ${g[1]}┃${reset}${p(`   Vue Fes Japan Core Team · Author of ${link("https://g
 ${g[2]}┃${reset}${p("")}${g[11]}┃
 ${g[2]}┃${reset}${p(`   🐙 ${yellow}GitHub${reset}  ${link("https://github.com/naokihaba", "https://github.com/naokihaba")}`)}${g[12]}┃
 ${g[2]}┃${reset}${p(`   🐦 ${yellow}X${reset}       ${link("https://x.com/naokihaba", "@naokihaba")}`)}${g[12]}┃
-${g[2]}┃${reset}${p(`   🌐 ${yellow}Blog${reset}    ${link("https://naoki-blog-v3.naoworks.workers.dev", "naoki-blog-v3.naoworks.workers.dev")}`)}${g[13]}┃
+${g[2]}┃${reset}${p(`   🌐 ${yellow}Blog${reset}    ${link("https://blog.naokihaba.com", "blog.naokihaba.com")}`)}${g[13]}┃
 ${g[3]}┃${reset}${p("")}${g[14]}┃
 ${g[13]}┗━━━━━━━━${g[12]}━━━━━━━━${g[11]}━━━━━━━━${g[10]}━━━━━━━━${g[9]}━━━━━━━━${g[8]}━━━━━━━━${g[7]}━━━━━━━━┛${reset}
 `;
