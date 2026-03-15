@@ -1,6 +1,7 @@
 # Hi, I'm Naoki 👋
 
-💚 Front-end Developer loving the Vue ecosystem  
+💚 Front-end Developer, loving Vue ecosystem  
+Vue Fes Japan Core Team · Author of vueyous  
 📍 Tokyo, Japan
 
 ## Tech Stack
@@ -16,9 +17,10 @@
 
 ## Links
 
-- 🌐 [Website](https://blog.naokihaba.com/)
+- 🐙 [GitHub](https://github.com/naokihaba)
+- 🐦 [X](https://twitter.com/naokihaba)
+- 🌐 [Blog](https://blog.naokihaba.com/)
 - 📝 [Zenn](https://zenn.dev/naokihaba)
-- 🐦 [Twitter / X](https://twitter.com/naokihaba)
 - 📰 [Qiita](https://qiita.com/naokihaba)
 
 ## npx card
