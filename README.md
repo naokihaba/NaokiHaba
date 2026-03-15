@@ -1,4 +1,8 @@
 ```
+$ npx naokihaba
+```
+
+```
 ┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
 ┃                                                        ┃
 ┃   👋                                                   ┃
@@ -10,8 +14,6 @@
 ┃   🐙 GitHub  https://github.com/naokihaba              ┃
 ┃   🐦 X       @naokihaba                                ┃
 ┃   🌐 Blog    blog.naokihaba.com                        ┃
-┃                                                        ┃
-┃   $ npx naokihaba                                      ┃
 ┃                                                        ┃
 ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
 ```
