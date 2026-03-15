@@ -1,16 +1,18 @@
-# Hi, I'm Naoki 👋
-
-💚 Front-end Developer, loving Vue ecosystem  
-Vue Fes Japan Core Team · Author of vueyous  
-📍 Tokyo, Japan
-
-## Links
-
-- 🐙 [GitHub](https://github.com/naokihaba)
-- 🐦 [X](https://twitter.com/naokihaba)
-- 🌐 [Blog](https://blog.naokihaba.com/)
-
-## npx card
+```
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃                                                        ┃
+┃   👋                                                   ┃
+┃                                                        ┃
+┃   I'm NaokiHaba                                        ┃
+┃   💚 Front-end Developer, loving Vue ecosystem         ┃
+┃   Vue Fes Japan Core Team · Author of vueyous          ┃
+┃                                                        ┃
+┃   🐙 GitHub  https://github.com/naokihaba              ┃
+┃   🐦 X       @naokihaba                                ┃
+┃   🌐 Blog    blog.naokihaba.com                        ┃
+┃                                                        ┃
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+```
 
 ```bash
 npx naokihaba
