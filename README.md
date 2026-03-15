@@ -23,6 +23,6 @@
 
 ## npx card
 
-\`\`\`bash
+```bash
 npx naokihaba
-\`\`\`
+```
