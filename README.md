@@ -16,7 +16,7 @@
 
 ## Links
 
-- 🌐 [Website](https://own.page/naokihaba)
+- 🌐 [Website](https://blog.naokihaba.com/)
 - 📝 [Zenn](https://zenn.dev/naokihaba)
 - 🐦 [Twitter / X](https://twitter.com/naokihaba)
 - 📰 [Qiita](https://qiita.com/naokihaba)
