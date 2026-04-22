@@ -17,6 +17,6 @@
 
 ## LINKS
 
-- github: [naokihaba](https://github.com/naokihaba)
+- GitHub: [naokihaba](https://github.com/naokihaba)
 - x: [@naokihaba](https://x.com/naokihaba)
 - vite+: [viteplus.dev/team](https://viteplus.dev/team)
