@@ -1,4 +1,4 @@
-# NaokiHaba(1)
+# NaokiHaba
 
 ## NAME
 
