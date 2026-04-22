@@ -70,7 +70,7 @@ ${g[0]}┃${reset}${p("   Front-end Developer")}${g[9]}┃
 ${g[1]}┃${reset}${p("")}${g[10]}┃
 ${g[1]}┃${reset}${p(`   ${vite}⚡ Vite+ Core Contributor${reset}`)}${g[10]}┃
 ${g[2]}┃${reset}${p(`   ${vue}💚 Vue Fes Japan Core Team${reset}`)}${g[11]}┃
-${g[2]}┃${reset}${p(`   📦 ${link("https://github.com/chibivue-land/vueyous", vue + "vueyous" + reset)}`)}${g[11]}┃
+${g[2]}┃${reset}${p(`   📦 ${vue}Contributor${reset} ${link("https://github.com/chibivue-land/vueyous", vue + "vueyous" + reset)}`)}${g[11]}┃
 ${g[3]}┃${reset}${p("")}${g[12]}┃
 ${g[3]}┃${reset}${p(`   🐙 ${yellow}GitHub${reset}   ${link("https://github.com/naokihaba", "github.com/naokihaba")}`)}${g[12]}┃
 ${g[4]}┃${reset}${p(`   🐦 ${yellow}X${reset}        ${link("https://x.com/naokihaba", "@naokihaba")}`)}${g[13]}┃
