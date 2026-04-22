@@ -74,7 +74,6 @@ ${g[2]}┃${reset}${p(`   📦 ${vue}Contributor${reset} ${link("https://github.
 ${g[3]}┃${reset}${p("")}${g[12]}┃
 ${g[3]}┃${reset}${p(`   🐙 ${yellow}GitHub${reset}   ${link("https://github.com/naokihaba", "github.com/naokihaba")}`)}${g[12]}┃
 ${g[4]}┃${reset}${p(`   🐦 ${yellow}X${reset}        ${link("https://x.com/naokihaba", "@naokihaba")}`)}${g[13]}┃
-${g[4]}┃${reset}${p(`   🌐 ${yellow}Blog${reset}     ${link("https://blog.naokihaba.com", "blog.naokihaba.com")}`)}${g[13]}┃
 ${g[5]}┃${reset}${p(`   ⚡ ${yellow}Vite+${reset}    ${link("https://viteplus.dev/team", "viteplus.dev/team")}`)}${g[13]}┃
 ${g[5]}┃${reset}${p("")}${g[14]}┃
 ${g[13]}┗━━━━━━━━${g[12]}━━━━━━━━${g[11]}━━━━━━━━${g[10]}━━━━━━━━${g[9]}━━━━━━━━${g[8]}━━━━━━━━${g[7]}━━━━━━━━┛${reset}

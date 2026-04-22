@@ -19,5 +19,4 @@
 
 - github: [naokihaba](https://github.com/naokihaba)
 - x: [@naokihaba](https://x.com/naokihaba)
-- blog: [blog.naokihaba.com](https://blog.naokihaba.com)
 - vite+: [viteplus.dev/team](https://viteplus.dev/team)
