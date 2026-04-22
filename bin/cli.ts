@@ -53,9 +53,10 @@ function p(s: string): string {
   let w = 0;
   for (const c of clean) {
     const cp = c.codePointAt(0) ?? 0;
-    w += (cp >= 0x1100 && cp <= 0x115f) || (cp >= 0x2e80 && cp <= 0x9fff) ||
-         (cp >= 0xac00 && cp <= 0xd7af) || (cp >= 0xf900 && cp <= 0xfaff) ||
-         (cp >= 0x1f300 && cp <= 0x1f9ff) || (cp >= 0x20000 && cp <= 0x2ffff) ? 2 : 1;
+    w += (cp >= 0x1100 && cp <= 0x115f) || (cp >= 0x2600 && cp <= 0x27bf) ||
+         (cp >= 0x2e80 && cp <= 0x9fff) || (cp >= 0xac00 && cp <= 0xd7af) ||
+         (cp >= 0xf900 && cp <= 0xfaff) || (cp >= 0x1f300 && cp <= 0x1f9ff) ||
+         (cp >= 0x20000 && cp <= 0x2ffff) ? 2 : 1;
   }
   return s + " ".repeat(Math.max(0, INNER - w));
 }

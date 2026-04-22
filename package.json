@@ -1,6 +1,6 @@
 {
   "name": "naokihaba",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "💚 Front-end Developer loving Vue ecosystem",
   "keywords": [
     "card",
@@ -25,7 +25,7 @@
   "scripts": {
     "build": "tsdown bin/cli.ts --outDir dist --platform node",
     "dev": "bun run bin/cli.ts",
-    "release": "npm run build && npm publish --access public"
+    "release": "npm run build && npm publish --access public --registry https://registry.npmjs.org/"
   },
   "devDependencies": {
     "tsdown": "^0.20.1",
