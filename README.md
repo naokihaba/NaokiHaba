@@ -13,7 +13,6 @@
 - [ANDPAD inc.](https://github.com/andpad-dev)
 - [Vite+](https://github.com/voidzero-dev/vite-plus) Core Contributor
 - [Vue Fes Japan](https://vuefes.jp/) Core Team
-- Contributor of [vueyous](https://github.com/chibivue-land/vueyous)
 
 ## LINKS
 
