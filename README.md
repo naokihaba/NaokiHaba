@@ -6,7 +6,7 @@
 
 ## SYNOPSIS
 
-`npx --package @simon_he /terminal-card terminal-card naokihaba`
+`npx --package @simon_he/terminal-card terminal-card naokihaba`
 
 ## ROLES
 
